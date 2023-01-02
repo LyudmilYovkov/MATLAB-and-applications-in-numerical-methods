@@ -147,7 +147,10 @@ xlabel('\bf{x}')
 ylabel('\bf{Solution}')
 legend('\bf{Approximated solution}', ...
        '\bf{Exact solution}')
-title('\bf{Boundary value problem for ODE of second order}')
+title(['\bf{Boundary value problem for ODE }', ...
+       '\bf{of second order with Dirichlet }', ...
+       '\bf{boundary condition}'])
+
 %==================%
 % Absolute error   %
 %==================%
