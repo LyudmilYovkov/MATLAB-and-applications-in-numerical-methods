@@ -1,4 +1,4 @@
-# MATLAB_projects
+# MATLAB_and_applications_in_numerical_methods
 
 The files stored in this repository contain implementations and
 applications of some widely used in practice numerical methods: 
